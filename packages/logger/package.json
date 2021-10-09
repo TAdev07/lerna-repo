@@ -1,0 +1,12 @@
+{
+  "name": "@lerna-repo/logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test logger"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
